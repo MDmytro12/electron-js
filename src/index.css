@@ -1,0 +1,10 @@
+body {
+	padding: 30px;
+	background-color: greenyellow;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
